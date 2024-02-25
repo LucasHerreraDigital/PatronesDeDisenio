@@ -1,4 +1,4 @@
-package creacionales;
+package singleton;
 
 public class PruebaSingleton {
 
